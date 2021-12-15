@@ -1,0 +1,3 @@
+[submodule ".vim/plugged/.vim/plugged/nerdtree"]
+	path = .vim/plugged/.vim/plugged/nerdtree
+	url = https://github.com/preservim/nerdtree.git
