@@ -4,3 +4,9 @@
 [submodule ".vim/plugged/.vim/plugged/ale"]
 	path = .vim/plugged/.vim/plugged/ale
 	url = https://github.com/dense-analysis/ale.git
+[submodule ".vim/plugged/ale"]
+	path = .vim/plugged/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule ".vim/plugged/nerdtree"]
+	path = .vim/plugged/nerdtree
+	url = https://github.com/preservim/nerdtree.git
