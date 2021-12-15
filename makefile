@@ -1,2 +1,7 @@
+plug:
+        git submodule init
+        git submodule update
+
 clean:
-  rm -fv .gitignore .git makefile
+        rm -Rfv .git
+        rm -fv .gitignore README.md makefile .gitmodules
